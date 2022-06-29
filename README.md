@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thefierycoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thefierycoder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thefierycoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thefierycoder" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thefierycoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/thefierycoder" height="30" width="40" /></a>
+<a href="https://twitter.com/thefierycoder" target="_blank"><img width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" /></a>
+<a href="https://linkedin.com/in/thefierycoder" target="_blank"><img width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" /></a>
+<a href="https://www.youtube.com/c/TheFieryCoder" target="_blank"><img width="40" src="https://i.imgur.com/Zm5LYS9.png" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
