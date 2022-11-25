@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Rishi Purwar</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rishi Purwar
+====================================================================================================================================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishipurwar1&label=Profile%20views&color=0e75b6&style=flat" alt="rishipurwar1" /> </p>
+Full-stack Developer
+--------------------
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishipurwar1" alt="rishipurwar1" /></a> </p>
+I'm an enthusiastic full-stack Web developer from India who has been building side projects for quite some time now. You can check out all my projects at [github.com/rishipurwar1](github.com/rishipurwar1) to learn more about what I do!
 
-<p align="left"> <a href="https://twitter.com/thefierycoder" target="blank"><img src="https://img.shields.io/twitter/follow/thefierycoder?logo=twitter&style=for-the-badge" alt="thefierycoder" /></a> </p>
-
-- 🔭 I’m currently working on [codingspace](https://github.com/rishipurwar1/coding-space)
-
-- 👀 I’m looking to collaborate on [codingspace](https://github.com/rishipurwar1/coding-space)
-
-- 👨‍💻 All of my projects are available at [https://github.com/rishipurwar1](https://github.com/rishipurwar1)
-
-- 📫 How to reach me **https://www.linkedin.com/in/thefierycoder/**
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [thefierycoder.codes](http://thefierycoder.codes)
+* ✉️  You can contact me at [linkedin.com/in/thefierycoder](https://www.linkedin.com/in/thefierycoder)
+* 🚀  I'm currently working on [CodingSpace](http://coding-space.vercel.app)
+* 🧠  I'm learning NextJs
+* ⚡  I love to build new side projects.
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
