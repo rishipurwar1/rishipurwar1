@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack Developer
 --------------------
 
-I'm an enthusiastic full-stack Web developer from India who has been building side projects for quite some time now. You can check out all my projects at [github.com/rishipurwar1](github.com/rishipurwar1) to learn more about what I do!
+I'm an enthusiastic full-stack Web developer from India who has been building side projects for quite some time now. You can check out all my projects at [github.com/rishipurwar1](https://github.com/rishipurwar1) to learn more about what I do!
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [thefierycoder.codes](http://thefierycoder.codes)
