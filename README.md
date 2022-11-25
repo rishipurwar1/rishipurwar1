@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/thefierycoder/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thefierycoder" target="_blank"><img width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" /></a>
 <a href="https://linkedin.com/in/thefierycoder" target="_blank"><img width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" /></a>
