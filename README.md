@@ -11,7 +11,7 @@ I'm an enthusiastic full-stack Web developer from India who has been building si
 * ✉️  You can contact me at [iamrishi687@gmail.com](mailto:iamrishi687@gmail.com)
 * 🚀  I'm currently working on [CodingSpace](http://coding-space.vercel.app)
 * 🧠  I'm learning NextJs
-* ⚡  I love to build new side projects.
+* ⚡  I love to build side projects.
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
