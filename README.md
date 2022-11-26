@@ -8,7 +8,7 @@ I'm an enthusiastic full-stack Web developer from India who has been building si
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [thefierycoder.codes](http://thefierycoder.codes)
-* ✉️  You can contact me at [linkedin.com/in/thefierycoder](https://www.linkedin.com/in/thefierycoder)
+* ✉️  You can contact me at [iamrishi687@gmail.com](mailto:iamrishi687@gmail.com)
 * 🚀  I'm currently working on [CodingSpace](http://coding-space.vercel.app)
 * 🧠  I'm learning NextJs
 * ⚡  I love to build new side projects.
