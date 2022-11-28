@@ -40,7 +40,3 @@ I'm an enthusiastic full-stack Web developer from India who has been building si
 - [How to Set Up GitHub User Authentication using Firebase and React (with Hooks)](https://www.freecodecamp.org/news/github-user-authentication-using-firebase-and-reactjs-with-hooks/)
 - [A guide to adding gradients with Tailwind CSS](https://blog.logrocket.com/guide-adding-gradients-tailwind-css/)
 - [How I Built A Web Development Challenges Website With $0 (And You Can Too!)](https://thefierycoder.hashnode.dev/how-i-built-a-web-development-challenges-website-with-dollar0-and-you-can-too)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishipurwar1&show_icons=true&locale=en" alt="rishipurwar1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishipurwar1&" alt="rishipurwar1" /></p>
