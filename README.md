@@ -6,12 +6,12 @@ Full-stack Developer
 
 I'm an enthusiastic full-stack Web developer from India who has been building side projects for quite some time now. You can check out all my projects at [github.com/rishipurwar1](https://github.com/rishipurwar1) to learn more about what I do!
 
+* 🚀  I'm currently building my open-source project, [FrontendPro](https://www.frontendpro.dev)
+* 🧠  I'm learning NextJs
+* ⚡  I love to build side projects.
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [thefierycoder.codes](http://thefierycoder.codes)
 * ✉️  You can contact me at [iamrishi687@gmail.com](mailto:iamrishi687@gmail.com)
-* 🚀  I'm currently working on my open-source project, [FrontendPro](https://www.frontendpro.dev)
-* 🧠  I'm learning NextJs
-* ⚡  I love to build side projects.
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
