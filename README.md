@@ -36,7 +36,11 @@ I'm an enthusiastic full-stack Web developer from India who has been building si
 
 <h3 align="left">📝 My Latest Blogs:</h3>
 
+- [Using React with Appwrite to set up user authentication](https://blog.logrocket.com/using-react-appwrite-user-authentication/)
+
 - [Recursive components in React: A real-world example](https://blog.logrocket.com/recursive-components-react-real-world-example/)
+
+- [Build a Random Quote Generator with HTML, CSS, and JavaScript](https://blog.frontendpro.dev/build-a-random-quote-generator-with-html-css-and-javascript)
 - [How to Set Up GitHub User Authentication using Firebase and React (with Hooks)](https://www.freecodecamp.org/news/github-user-authentication-using-firebase-and-reactjs-with-hooks/)
 - [A guide to adding gradients with Tailwind CSS](https://blog.logrocket.com/guide-adding-gradients-tailwind-css/)
 - [How I Built A Web Development Challenges Website With $0 (And You Can Too!)](https://thefierycoder.hashnode.dev/how-i-built-a-web-development-challenges-website-with-dollar0-and-you-can-too)
