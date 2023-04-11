@@ -1,10 +1,10 @@
 Hi 👋, My name is Rishi Purwar
 ====================================================================================================================================
 
-Full-stack Developer
+Frontend Developer
 --------------------
 
-I'm an enthusiastic full-stack Web developer from India who has been building side projects for quite some time now. You can check out all my projects at [github.com/rishipurwar1](https://github.com/rishipurwar1) to learn more about what I do!
+I'm an enthusiastic Frontend Web developer from India who has been building side projects for quite some time now. You can check out all my projects at [github.com/rishipurwar1](https://github.com/rishipurwar1) to learn more about what I do!
 
 * 🚀  I'm currently building my open-source project, [FrontendPro](https://www.frontendpro.dev)
 * 🧠  I'm learning NextJs
