@@ -36,6 +36,8 @@ I'm an enthusiastic Frontend Web developer from India who has been building side
 
 <h3 align="left">📝 My Latest Blogs:</h3>
 
+- [Build a Custom Toast Notification Component with ReactJs & Context API](https://blog.frontendpro.dev/build-a-custom-toast-notification-component-with-reactjs-context-api)
+
 - [Using React with Appwrite to set up user authentication](https://blog.logrocket.com/using-react-appwrite-user-authentication/)
 
 - [Recursive components in React: A real-world example](https://blog.logrocket.com/recursive-components-react-real-world-example/)
